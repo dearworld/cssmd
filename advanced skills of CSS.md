@@ -14,7 +14,6 @@ outline:0(outline:none) 取消input的轮廓线
 ### 防止拖拽文本域resize
 resize:none
 ## vertical-align 垂直居中
-![1](D:\Document\image\1.png)
 
 vertical-align: baseline || top || middle || bottom
 
